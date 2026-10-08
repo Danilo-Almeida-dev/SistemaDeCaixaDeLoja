@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Dados gerados ao executar o sistema
+produtos.json
+historico.json
+
+# Editor / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
